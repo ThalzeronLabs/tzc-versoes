@@ -1,0 +1,28 @@
+# Os canais de atualização do Thalzeron Code: cada versão nova sai como pré-lançamento (o canal beta) e, depois de 12
+# horas sem ser barrada, vai ao canal estável. Esta rotina confere de hora em hora.
+name: Promover o beta ao estável
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  promover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Promover as versões prontas
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          prontas=$(gh api "repos/$GH_REPO/releases?per_page=100" --jq '[.[] | select(.prerelease and (.draft | not) and ((now - (.published_at | fromdateiso8601)) >= 43200) and (((.body // "") | contains("BARRADA")) | not))] | sort_by(.published_at) | .[].tag_name')
+          ultima=$(echo "$prontas" | tail -n 1)
+          for tag in $prontas; do
+            if [ "$tag" = "$ultima" ]; then
+              gh release edit "$tag" --prerelease=false --latest
+            else
+              gh release edit "$tag" --prerelease=false
+            fi
+            echo "promovida: $tag"
+          done

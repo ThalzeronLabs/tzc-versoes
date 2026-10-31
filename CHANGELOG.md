@@ -2,6 +2,10 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.171 · 31/10/2026
+
+- **Canal de atualização: Estável ou Beta.** Em Configurações → Sobre, escolha o canal. No Estável (o padrão), chegam as versões que já passaram pelo Beta sem problemas. No Beta, cada versão nova chega assim que sai, antes de todo mundo. Uma versão que apresentar problema no Beta não chega ao Estável.
+
 ## 0.1.170 · 31/10/2026
 
 - **Contagem de uso à vista.** A contagem anônima de uso (uma vez por dia, só "um TZC abriu hoje", com a versão e um número aleatório) agora aparece em Privacidade → O que saiu do PC, com o tamanho exato de cada envio. A primeira abertura explica o que ela leva, com a opção de desligar ali mesmo.
