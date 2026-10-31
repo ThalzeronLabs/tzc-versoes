@@ -1,0 +1,42 @@
+name: Relatar um defeito
+description: Algo não funciona como deveria no Thalzeron Code
+labels: ["defeito"]
+body:
+  - type: markdown
+    attributes:
+      value: "Obrigado por relatar. Não cole chaves de API, senhas nem dados pessoais aqui: este espaço é público."
+  - type: input
+    id: versao
+    attributes:
+      label: A versão
+      description: Em Configurações → Sobre (por exemplo, 0.1.170 · build 171)
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: O passo a passo
+      description: O que você fez, na ordem, até o defeito aparecer
+      placeholder: "1. Abri uma conversa nova\n2. Escolhi o cérebro...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que você esperava e o que aconteceu
+    validations:
+      required: true
+  - type: dropdown
+    id: cerebro
+    attributes:
+      label: O cérebro usado
+      options:
+        - Local (no meu PC)
+        - Na nuvem
+        - A mescla
+        - Não sei
+  - type: textarea
+    id: prints
+    attributes:
+      label: Prints ou a mensagem de erro
+      description: Arraste as imagens para cá

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideias e dúvidas
+    url: https://github.com/ThalzeronLabs/tzc-versoes/discussions
+    about: Sugestões de recursos, perguntas e conversas com a comunidade
+  - name: Falha de segurança
+    url: https://github.com/ThalzeronLabs/tzc-versoes/blob/main/SECURITY.md
+    about: Não relate falhas de segurança em público; veja como avisar
