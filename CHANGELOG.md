@@ -2,6 +2,10 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.170 · 31/10/2026
+
+- **Contagem de uso à vista.** A contagem anônima de uso (uma vez por dia, só "um TZC abriu hoje", com a versão e um número aleatório) agora aparece em Privacidade → O que saiu do PC, com o tamanho exato de cada envio. A primeira abertura explica o que ela leva, com a opção de desligar ali mesmo.
+
 ## 0.1.169 · 31/10/2026
 
 - **Número de build.** A aba Sobre e a página de download mostram o número de build ao lado da versão: um contador que só sobe e soma todas as versões do TZC já publicadas.
