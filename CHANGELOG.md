@@ -2,6 +2,58 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.223 · 01/11/2026
+
+- **Apagar as conversas tem volta.** Em Configurações → Privacidade e dados, apagar as conversas, a memória ou tudo agora deixa uma cópia 30 dias na lixeira, com o Restaurar: as conversas voltam com as mensagens e a busca, e nada do que veio depois é apagado.
+
+## 0.1.222 · 01/11/2026
+
+- **O Socorro pela conversa.** Diga ao agente "o celular sumiu" ou "a barra de tarefas travou": ele vê o estado do PC e usa os mesmos consertos da tela Socorro (reconectar o celular, reiniciar o Explorer, destravar o Google Drive), com o mesmo registro. Ver é livre; consertar pede o seu sim.
+- **A ajuda do ditado.** Em Configurações → O TZC no Windows, ao lado dos microfones, o i explica o ditado: o clique para ligar e parar, quem transcreve e a ordem dos microfones.
+
+## 0.1.221 · 01/11/2026
+
+- **O Dev Chefe com os aparelhos e os builds.** O Dev Chefe ganhou a aba Aparelhos e builds: os emuladores e o celular (de qual projeto é cada um), os emuladores para ligar, a fila dos builds do Gradle (no máximo 2 ao mesmo tempo e 1 por projeto, e só com 4 GB livres) e a memória. O agente usa as mesmas ferramentas em qualquer PC: o build pela fila, o adb no aparelho certo, ligar o emulador, o print da tela e soltar a pista.
+
+## 0.1.220 · 01/11/2026
+
+- **O WhatsApp numa gaveta.** O botão do WhatsApp na barra de cima agora abre uma gaveta estreita que desce dele, à direita, com o próprio WhatsApp: a lista, a conversa e a caixa de responder, sem tampar o seu trabalho. O Abrir em tela inteira leva ao WhatsApp completo. Fecha no 2º clique no botão, no X, no Esc ou num clique fora.
+
+## 0.1.219 · 01/11/2026
+
+- **A atualização sempre avisa.** Quando a versão nova é instalada de fora, o TZC agora sai pelo mesmo caminho do aviso: o aviso do Windows, a janelinha que diz o passo de agora (instalando, abrindo, pronto) e a volta automática se algo falhar. Acabou a tela branca sem explicação durante a instalação.
+
+## 0.1.218 · 01/11/2026
+
+- **O Chrome pela loja.** Em Configurações → Conectores, o Chrome agora diz o caminho de hoje: instalar a extensão pela Chrome Web Store (o botão Abrir na Chrome Web Store), abrir o painel pelo ícone dela e entrar com a mesma conta Thalzeron deste TZC. O Sobre também mostra a extensão no ar.
+
+## 0.1.217 · 01/11/2026
+
+- **A ajuda em toda tela.** O i ao lado do título agora está nas 20 abas das Configurações e na Central, na Bancada, na Comunidade, no WhatsApp e no Socorro: cada um abre a explicação com o que é, quando usar e o passo a passo.
+- **O passeio guiado em dia.** A apresentação guiada mostra as 9 páginas da barra lateral, os 9 painéis, o sino dos avisos e o WhatsApp. Ela volta pelo menu do seu nome.
+- **Só o que existe no seu PC.** As ferramentas do agente para o Android pela Torre só aparecem no PC que tem a Torre; nos outros, o agente nem as vê.
+
+## 0.1.216 · 01/11/2026
+
+- **O WhatsApp conecta de novo.** Quando o WhatsApp dizia "funciona no Google Chrome 100 ou posterior", o TZC agora se apresenta como o Chrome também por baixo da página e limpa a página antiga guardada; o login e as conversas ficam. Abra o WhatsApp e leia o QR code de novo, se ele pedir.
+- **A Comunidade com o TZC que responde.** No #ajuda, a pergunta que ficou 10 minutos sem resposta ganha o botão Sugerir a resposta do TZC (só para o dono): o TZC escreve a partir do guia e das Novidades, mostra de onde veio, e a resposta só sai com o seu sim, com o selo Resposta do TZC.
+
+## 0.1.215 · 01/11/2026
+
+- **O WhatsApp que conhece o projeto.** Ligue a conversa de um cliente ao projeto dele (WhatsApp → As conversas ligadas a projetos). Quando ele perguntar "quando fica pronto?", o Secretário lê o estado real (os últimos commits, o que falta na Cascata, o próximo passo do RETOMAR) e escreve a resposta mostrando de onde veio cada informação; só sai com o seu sim, e nada de dentro do código vai ao cliente.
+
+## 0.1.214 · 01/11/2026
+
+- **O Socorro, a um clique.** Quando o PC aperta, o conserto está na barra lateral: reconectar o celular pelo adb, a barra de tarefas travada (o Explorer reiniciado), o que come a memória (com o conselho de cada programa), o disco da nuvem travado (o Google Drive reiniciado), aliviar o próprio TZC e pedir ajuda ao agente já sabendo o estado do PC. Cada botão diz o que faz e o que não faz, e tudo fica no registro.
+
+## 0.1.213 · 01/11/2026
+
+- **Os testes do seu projeto num mundo de mentira.** Quando o agente roda os testes do seu app (npm test, pytest, gradlew test e outros), eles rodam à parte: a casa do usuário, o AppData e o temp numa pasta de mentira, o .env.test do projeto e a rede só local. Antes e depois, o TZC confere o .env, os bancos e as pastas de dados de verdade, e mostra na conversa que nada foi tocado. Desliga em Configurações → Jeito Thalzeron.
+
+## 0.1.212 · 01/11/2026
+
+- **O guarda de memória do TZC.** O TZC mede quanto cada parte dele ocupa (a janela, o núcleo, as abas do navegador interno, as janelas destacadas) e avisa no topo antes de o PC sofrer. Por padrão, fecha sozinho só as abas paradas há mais de 1 hora e conta no registro; o que está trabalhando, nunca. Em Configurações → A memória do TZC você vê o que pesa e escolhe o quanto ele faz sozinho.
+
 ## 0.1.211 · 01/11/2026
 
 - **A lixeira em tudo o que você tira.** Um artefato, um mod, uma rotina, um agente, um plugin ou uma prova que sai vai para a lixeira por 30 dias. Em Configurações → A lixeira, o Restaurar volta do jeito que estava; e, logo depois de tirar, a barra de baixo oferece o Desfazer por 10 segundos.
