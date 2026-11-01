@@ -2,6 +2,10 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.229 · 01/11/2026
+
+- **O pedido de atualizar sempre chega.** Quando a versão nova é instalada de fora, o pedido para o TZC sair com a tela da atualização agora chega sempre, em qualquer ordem que o Windows entregue os argumentos.
+
 ## 0.1.228 · 01/11/2026
 
 - **A tela da atualização até o fim.** Depois que o TZC fecha para instalar, a tela da atualização continua no mesmo lugar, com a barra e as etapas, até a versão nova abrir. Antes ela não chegava a aparecer, e a tela ficava vazia durante a instalação.
