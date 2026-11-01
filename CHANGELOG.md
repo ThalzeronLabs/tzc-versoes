@@ -2,6 +2,10 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.210 · 01/11/2026
+
+- **As Configurações cabem inteiras em telas baixas.** Numa janela pequena (como 1000 × 640), as Configurações passavam um pouco da borda de baixo. Agora cabem inteiras, e o TZC se prova em 6 tamanhos de tela, do notebook ao monitor de 49 polegadas.
+
 ## 0.1.209 · 01/11/2026
 
 - **As provas do TZC não mexem no seu Windows.** Quando o TZC se testa, a opção Iniciar com o Windows fica só dentro do teste: a lista de inicialização do seu Windows só muda quando você mesmo liga ou desliga a opção.
