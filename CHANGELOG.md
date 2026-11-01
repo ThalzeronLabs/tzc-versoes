@@ -2,6 +2,14 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.209 · 01/11/2026
+
+- **As provas do TZC não mexem no seu Windows.** Quando o TZC se testa, a opção Iniciar com o Windows fica só dentro do teste: a lista de inicialização do seu Windows só muda quando você mesmo liga ou desliga a opção.
+
+## 0.1.208 · 01/11/2026
+
+- **O navegador interno abre o que você digita.** O endereço digitado na página inicial do navegador interno e os links de um site para outro voltam a abrir na própria aba. Desde a 0.1.201 eles iam para o navegador do Windows.
+
 ## 0.1.207 · 01/11/2026
 
 - **Tirar um artefato agora tem volta.** O Tirar da tela Artefatos pergunta antes e leva a página para uma lixeira, onde ela fica 30 dias. Antes, a página sumia de vez.
