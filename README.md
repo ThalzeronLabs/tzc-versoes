@@ -10,6 +10,10 @@ Ele planeja, programa, testa e prova o trabalho, com o modelo que você escolher
   <a href="../../discussions">Comunidade</a>
 </p>
 
+<p align="center"><sub>O instalador ainda não tem a assinatura da Microsoft: o Windows pode mostrar o aviso “O Windows
+protegeu o computador”. É seguro: clique em <b>Mais informações</b> e depois em <b>Executar assim mesmo</b>. Em breve,
+também na Microsoft Store.</sub></p>
+
 ---
 
 ## Por que o Thalzeron Code

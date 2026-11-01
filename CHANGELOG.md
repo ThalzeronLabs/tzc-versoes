@@ -2,6 +2,162 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.207 · 01/11/2026
+
+- **Tirar um artefato agora tem volta.** O Tirar da tela Artefatos pergunta antes e leva a página para uma lixeira, onde ela fica 30 dias. Antes, a página sumia de vez.
+- **As provas do TZC num lugar só delas.** Quando o TZC se testa, ele usa uma pasta e um cofre só dele: as suas páginas, as suas conversas e os seus custos nunca se misturam com os testes.
+
+## 0.1.206 · 01/11/2026
+
+- **As provas do TZC nunca mexem nas suas contas.** Quando o TZC se testa (a Bancada, o autoteste, as provas de cada versão), ele usa um cofre de mentira: nada é gravado ou apagado no Cofre do Windows, e nenhuma prova age com a sua conta, o seu Google ou os seus conectores.
+
+## 0.1.205 · 01/11/2026
+
+- **As lojas no Esperando fora.** Cole na coluna Esperando fora o endereço do seu app na Microsoft Store, da sua extensão na Chrome Web Store ou do seu app na Play: o TZC confere de hora em hora e avisa quando ele entra no ar (e, na Chrome Web Store, com a versão publicada).
+
+## 0.1.204 · 01/11/2026
+
+- **O WhatsApp dentro do TZC.** O botão do WhatsApp na barra de cima abre o seu WhatsApp ao lado do trabalho: ligue um ou mais números (Pessoal, Trabalho) lendo o QR code uma vez, e a sessão fica guardada no PC.
+- **O Secretário do WhatsApp.** O agente lê as conversas, resume e escreve as respostas. Você escolhe o modo de cada número: com a sua aprovação (a resposta só sai com o seu sim, aqui, no sino ou no aviso do Windows), livre (envia sozinho, no horário e no ritmo que você definir) ou a API oficial da Meta, para o WhatsApp Business.
+
+## 0.1.203 · 01/11/2026
+
+- **A Comunidade abriu.** Na barra lateral, a Comunidade: os canais geral, ideias, ajuda e novidades, para conversar com quem também usa o TZC. Entre na sua conta, escolha um nome de usuário (o seu e-mail nunca aparece) e escreva, responda ou peça ajuda. As mensagens da equipe do TZC têm o selo OFICIAL.
+- **A Comunidade se cuida.** Viu ofensa, spam ou golpe? Use o Marcar. Quando 10 pessoas diferentes marcam alguém, ele sai da Comunidade e só volta se a equipe do TZC deixar; quem saiu pode pedir a volta e contar o seu lado.
+
+## 0.1.202 · 01/11/2026
+
+- **Os cérebros explicados para todos.** Na aba Cérebros e chaves, a nota de cada provedor agora fala do provedor, e não de um plano em particular: o que ele faz melhor, como cobra e o que o nível grátis permite.
+
+## 0.1.201 · 01/11/2026
+
+- **Todo link abre.** O Criar a chave no site de cada provedor, os termos, o TZC Web e os links das respostas do agente abrem no seu navegador. Antes, alguns não faziam nada, e um link numa resposta podia levar a janela do TZC embora. Revisamos os botões de todas as telas, um por um.
+- **O Início em telas ultralargas.** Num monitor ultralargo, a tela inicial se espalha em 4 colunas e cabe inteira, sem rolar. Num monitor comum, continua como antes.
+- **Os Prazos para gente.** A página Prazos mostra quanto a previsão acerta, o mesmo tipo de tarefa em cada cérebro (o da nuvem contra o do seu PC), os tipos de tarefa com nome de gente e as últimas tarefas com o previsto e o real. A partir de agora, cada tarefa grava o cérebro que a fez, e a estimativa usa as medidas dele.
+- **A sua conta Thalzeron.** Em Configurações → Perfil: entre com o Google ou crie a conta com e-mail e senha. A conta é opcional e liga o TZC Web, a extensão e, em breve, a Comunidade. As novidades por e-mail só chegam se você marcar.
+- **O avatar do seu jeito.** O símbolo e a cor agora se escolhem separados: o símbolo de um, a cor de outro. A foto continua valendo.
+
+## 0.1.200 · 31/10/2026
+
+- **Pronto para a Microsoft Store.** O Thalzeron Code já sabe viver na Microsoft Store: lá, a própria loja traz as versões novas, e o iniciar com o Windows se liga em Configurações → Aplicativos → Inicialização. Quem instalou pelo site segue como está.
+
+## 0.1.199 · 31/10/2026
+
+- **Esta versão está boa?.** Para quem está no canal Beta: depois de 2 horas com uma versão nova, um cartão no canto pergunta se ela está boa. Aprovo ou Tem problema (com o que deu errado) vão direto a quem faz o TZC, e é isso que decide se a versão vai para todo mundo. Uma vez por versão; o Depois cala por 4 horas.
+
+## 0.1.198 · 31/10/2026
+
+- **Mandar minha opinião.** No menu do perfil e no Sobre: uma ideia, um problema ou um elogio, com o print da tela e o seu e-mail se você quiser a resposta. Antes de enviar, você vê o que vai junto: a versão, o canal, o sistema e o idioma. A conversa e os seus arquivos nunca vão. O inseto da barra lateral abre aqui, já em Problema.
+- **Como o TZC foi nesta conversa?.** De vez em quando, quando um trabalho termina, uma linha pede a sua nota: 👍, 😐 ou 👎. Depois do 👎, você pode dizer o que faltou. Aparece no máximo uma vez por dia e desliga em Privacidade e dados → Pedir a minha avaliação.
+
+## 0.1.197 · 31/10/2026
+
+- **A publicação trancada.** As ferramentas que publicam o próprio Thalzeron Code só aparecem no PC de quem o faz, com três provas ao mesmo tempo: o código-fonte, a licença assinada daquele PC e a conta que publica as versões. No seu TZC, nada disso aparece nem pode ser ligado.
+
+## 0.1.196 · 31/10/2026
+
+- **As Configurações rolam até o fim.** Numa tela mais baixa, o fim das abas longas ficava escondido atrás da borda. Agora cada lado da janela rola sozinho até o último item.
+
+## 0.1.195 · 31/10/2026
+
+- **Esta está top.** Para quem publica o próprio Thalzeron Code: na aba Sobre e atualizações, no canal Beta, o botão Esta está top manda a versão instalada ao canal Estável na hora, junto com o site e a página de novidades, sem esperar as 12 horas do Beta.
+
+## 0.1.194 · 31/10/2026
+
+- **Sobre o Thalzeron Code.** No menu do perfil, o Sobre reúne quem faz o Thalzeron Code e todos os caminhos dele: o site, o TZC Web, a extensão do Chrome, a Microsoft Store, as novidades e o site da Thalzeron. Lá também ficam o contato do suporte, a Política de Privacidade, os Termos de Uso, as licenças de código aberto e as informações técnicas para copiar quando você relatar um problema.
+
+## 0.1.193 · 31/10/2026
+
+- **O sino dos avisos.** Um sino na barra de cima guarda os avisos das últimas 48 horas, com o número dos que você ainda não viu. Cada um mostra o que dizia, quando chegou e o botão que você clicou, e os botões que ainda valem continuam ali: dá para aprovar um pedido ou dar mais orçamento direto do sino, mesmo depois que o aviso do Windows sumiu.
+
+## 0.1.192 · 31/10/2026
+
+- **Testar cada aviso.** Em Configurações → Notificações e sons, cada aviso tem o botão Testar: ele manda um exemplo daquele aviso, com os botões, para você ver como chega, mesmo com o TZC aberto na sua frente. Os botões do exemplo só abrem o TZC.
+- **O agente olha a tela antes de conferir.** Antes de escrever um teste ou um critério de pronto sobre uma tela, o agente lê o que ela mostra de verdade, e não o que imagina que ela mostra. Menos testes errados, menos voltas.
+- **O prazo sem a espera.** O prazo medido de uma tarefa desconta o tempo em que ela esperava a sua resposta. A espera não é trabalho: com ela de fora, as próximas estimativas ficam mais certas.
+
+## 0.1.191 · 31/10/2026
+
+- **Os avisos novos.** Agora avisam também: o gasto do dia aos 80% do teto e no teto, o saldo de um provedor acabando, o pull request que mudou, um conector que caiu ou pede login, uma rotina que terminou ou falhou, o relatório da manhã, a prévia de uma tela esperando você, o objetivo cumprido, a evolução do TZC pronta e a troca de uma peça do PC. Os avisos da versão nova e dos sites vigiados seguem as mesmas chaves e ganharam botões: Reiniciar agora e Ver o relatório. Cada um tem a sua chave em Configurações → Notificações e sons.
+
+## 0.1.190 · 31/10/2026
+
+- **Todas as notificações, com botões.** Configurações → Notificações e sons mostra todos os avisos do TZC em seis grupos (as conversas, o gasto, fora do PC, as rotinas, o PC e o próprio TZC), cada um com a sua chave, e os atalhos Ligar todos e Só os urgentes. Os avisos do Windows ganham botões que resolvem ali mesmo: aprovar ou negar um pedido do agente, retomar uma tarefa que parou, dar mais orçamento a uma frente pausada, abrir ou parar de acompanhar o que espera fora.
+
+## 0.1.189 · 31/10/2026
+
+- **A publicação conferida de fora.** Depois de publicar uma versão, um site ou um pacote, o agente baixa pelo endereço público, como quem vai usar baixaria, e confere que é a coisa nova. Se o endereço ainda não serve, ele tenta de novo; se continuar falhando, diz o que fazer, e só fala que publicou depois que a conferência passa.
+
+## 0.1.188 · 31/10/2026
+
+- **A lista de tarefas que se confere.** Se o seu projeto tem uma lista de tarefas com caixinhas (um TODO.md, um BACKLOG.md ou um ROADMAP.md), o agente compara a lista com o que já foi gravado no git: avisa o item ainda aberto que já foi entregue e o item marcado como feito sem nenhuma entrega parecida. A revisão periódica faz essa conferência sozinha, para a lista nunca mentir sobre o que falta.
+
+## 0.1.187 · 31/10/2026
+
+- **O orçamento por frente.** Cada frente da Central pode ter o seu teto de gasto e de tempo, com as barras no cartão. Quando passa, ela pausa no fim do passo, sem quebrar nada no meio, e o cartão oferece dar mais orçamento (e ela segue de onde parou) ou encerrar. O teto vem sugerido pelo histórico de tarefas parecidas, e o teto do dia continua valendo por cima.
+
+## 0.1.186 · 31/10/2026
+
+- **O que vai para fora entra sozinho na Central.** Quando o agente abre um pedido ou um relato num repositório do GitHub, ou publica um pacote no npm, o endereço entra sozinho na coluna Esperando fora, e a conversa avisa. Você não depende de ninguém lembrar de acompanhar: o TZC confere de hora em hora e avisa quando muda.
+
+## 0.1.185 · 31/10/2026
+
+- **A Central pelo teclado.** Os pedidos em Esperando você ganham números: 1 a 9 abre o pedido, A aprova, N nega, Enter abre a conversa e Esc volta. Depois de responder, o próximo abre sozinho, então uma fila de aprovações anda sem tirar a mão do teclado. Dentro de uma caixa de texto, as teclas continuam sendo só texto.
+
+## 0.1.184 · 31/10/2026
+
+- **Esperando fora, na Central.** O que depende de terceiros ganha uma coluna na Central: um pedido aberto num repositório, um pacote enviado a uma loja, uma página em revisão. O TZC confere cada um de hora em hora e avisa só quando muda (aceito, pediram correção, recusado, publicado). Cole o endereço na coluna, ou deixe o agente pôr ali o que ele mesmo mandou para fora.
+
+## 0.1.183 · 31/10/2026
+
+- **A folga antes do trabalho pesado.** Antes de um build, dos testes ou de um servidor de desenvolvimento, o TZC confere a memória e o espaço em disco do PC. Com pouca folga, o agente roda o comando sozinho e já sabe a causa se ele falhar; sem folga nenhuma, o comando nem começa, e você recebe o aviso com o que fazer, em vez de um erro sem sentido no meio do trabalho.
+
+## 0.1.182 · 31/10/2026
+
+- **O prazo pelo tamanho.** As estimativas de prazo separam as tarefas pequenas, médias e grandes: cada tamanho aprende com o próprio histórico, e uma tarefa grande não herda a pressa de um ajuste rápido. Enquanto um tamanho ainda não tem medidas, o TZC parte do tamanho vizinho e avisa que o número veio dali.
+
+## 0.1.181 · 31/10/2026
+
+- **Os testes do módulo.** Depois de mudar o código do seu projeto, o agente roda só os testes que cobrem o que mudou: os do mesmo nome do arquivo e os que o usam, com o comando certo para vitest, jest, pytest ou go. Você recebe a prova muito mais rápido, e a bateria completa fica para quando você pedir ou antes de lançar. A chave fica em Configurações → Jeito Thalzeron.
+
+## 0.1.180 · 31/10/2026
+
+- **Isso já existe, no código também.** Antes de uma pergunta do agente chegar a você, o TZC procura a resposta também no código do projeto: os arquivos e as mensagens dos últimos commits, além da memória, do livro das decisões e dos Acessos. Se a tela ou o recurso já existe, o agente fica sabendo e segue sem incomodar você.
+
+## 0.1.179 · 31/10/2026
+
+- **O guarda dos processos.** O TZC confere de tempos em tempos os programas que ele mesmo abriu (o navegador, os terminais, os servidores). Se um deles passar do normal, com centenas de processos ou vários GB de memória, você recebe o aviso com o nome e o número dele, e o agente evita abrir mais e só o fecha pelo número, se você pedir. Assim um programa preso não esgota a memória do PC.
+
+## 0.1.178 · 31/10/2026
+
+- **A prévia primeiro.** Antes de construir uma tela nova, o agente mostra a prévia (só a cara, com dados de exemplo) no painel Artefato e espera você: Aprovar e construir libera o código; Pedir mudança devolve o seu recado, e ele ajusta a prévia antes de escrever qualquer arquivo. Consertos pequenos não passam por isso. A chave fica em Configurações → Jeito Thalzeron.
+
+## 0.1.177 · 31/10/2026
+
+- **O custo e o prazo antes de começar.** Enquanto você escreve um pedido, acima da caixa aparece quanto as suas tarefas parecidas levaram: o prazo e o custo (a mediana e a faixa) e a certeza da conta. A previsão vem do seu próprio histórico, primeiro deste projeto e deste cérebro, e fica mais precisa a cada tarefa.
+
+## 0.1.176 · 31/10/2026
+
+- **O pacote de prova.** Quando o agente termina com a prova, a entrega vem num pacote para conferir em 30 segundos: o critério de pronto com a prova de cada item, os testes e comandos que o TZC conferiu, o que mudou (as linhas e os arquivos daquela volta) e os prints. Guardar o pacote grava tudo num arquivo em .tzc/provas do projeto; Aprovar a entrega marca a conversa como concluída; Pedir um ajuste leva direto à caixa de texto.
+
+## 0.1.175 · 31/10/2026
+
+- **O objetivo com o critério de pronto.** Ao dar um objetivo ao agente (/objetivo), ele combina antes de começar o que conta como pronto: de 3 a 7 itens verificáveis, no topo da conversa, com a barra do quanto falta. Cada item só é marcado com a prova (o teste, o print, a saída do comando, visível ao passar o mouse), e o agente não declara o objetivo cumprido enquanto faltar algum.
+
+## 0.1.174 · 31/10/2026
+
+- **Seus agentes.** Uma página nova em Configurações → Seus agentes: crie especialistas que o agente principal chama para uma parte do trabalho, cada um com o jeito, o cérebro e as ferramentas dele. Descreva o que quer e o agente monta para você, ligue ou desligue cada um com uma chave e ative o pacote Equipe de empresa (direção, finanças, jurídico, marketing, vendas, produto e revisão). Os agentes de outra ferramenta deste PC entram com um clique em Importar.
+- **Corrigido: os botões principais.** O Aprovar e o Nova frente da Central dos agentes e o Reiniciar para atualizar voltaram a aparecer na cor de destaque.
+
+## 0.1.173 · 31/10/2026
+
+- **/notas: as notas da versão do seu projeto.** Digite /notas na conversa de um projeto e o agente escreve as notas da próxima versão a partir do que mudou desde a última: em linguagem de produto, separadas em Novo, Melhorado e Corrigido, sem bastidor. Com /notas --gravar, elas vão para o topo do CHANGELOG.md.
+
+## 0.1.172 · 31/10/2026
+
+- **Enquanto você estava fora.** Ao voltar à Central dos agentes depois de um tempo longe, um resumo mostra o que aconteceu: as frentes que terminaram (e quantas com a prova), as que pararam, o que espera você e quanto custou. Um clique abre cada conversa, e o Entendi guarda o resumo.
+- **Corrigido: a linha do tempo da Central.** Dois eventos no mesmo minuto não ficam mais um em cima do outro.
+
 ## 0.1.171 · 31/10/2026
 
 - **Canal de atualização: Estável ou Beta.** Em Configurações → Sobre, escolha o canal. No Estável (o padrão), chegam as versões que já passaram pelo Beta sem problemas. No Beta, cada versão nova chega assim que sai, antes de todo mundo. Uma versão que apresentar problema no Beta não chega ao Estável.
