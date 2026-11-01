@@ -2,6 +2,11 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.211 · 01/11/2026
+
+- **A lixeira em tudo o que você tira.** Um artefato, um mod, uma rotina, um agente, um plugin ou uma prova que sai vai para a lixeira por 30 dias. Em Configurações → A lixeira, o Restaurar volta do jeito que estava; e, logo depois de tirar, a barra de baixo oferece o Desfazer por 10 segundos.
+- **O logo do TZC no lugar da bola verde.** O T no hexágono agora aparece no Bom dia do Início, nas Boas-vindas, nas Novidades e na nova aba do navegador interno, com as mesmas animações.
+
 ## 0.1.210 · 01/11/2026
 
 - **As Configurações cabem inteiras em telas baixas.** Numa janela pequena (como 1000 × 640), as Configurações passavam um pouco da borda de baixo. Agora cabem inteiras, e o TZC se prova em 6 tamanhos de tela, do notebook ao monitor de 49 polegadas.
