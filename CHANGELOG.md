@@ -2,6 +2,10 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.224 · 01/11/2026
+
+- **O aviso da atualização no monitor certo.** A janelinha que diz o passo da atualização (instalando, abrindo, pronto) agora abre no meio do monitor onde o TZC estava, maior e com o ícone na barra de tarefas. Antes ela podia abrir em outro monitor, e a tela do TZC ficava escura, sem explicação.
+
 ## 0.1.223 · 01/11/2026
 
 - **Apagar as conversas tem volta.** Em Configurações → Privacidade e dados, apagar as conversas, a memória ou tudo agora deixa uma cópia 30 dias na lixeira, com o Restaurar: as conversas voltam com as mensagens e a busca, e nada do que veio depois é apagado.
