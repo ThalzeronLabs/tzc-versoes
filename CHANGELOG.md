@@ -2,6 +2,22 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.228 · 01/11/2026
+
+- **A tela da atualização até o fim.** Depois que o TZC fecha para instalar, a tela da atualização continua no mesmo lugar, com a barra e as etapas, até a versão nova abrir. Antes ela não chegava a aparecer, e a tela ficava vazia durante a instalação.
+
+## 0.1.227 · 01/11/2026
+
+- **A atualização sem a tela preta.** No instante em que a atualização começa, a janela do TZC vira a tela da atualização (o logo, a barra, as etapas) e fica assim até a versão nova abrir. Antes, a janela ficava preta e vazia por uns minutos.
+
+## 0.1.226 · 01/11/2026
+
+- **Mais ajuda no Início.** Os cartões Saldos, Quando você trabalha e As próximas rotinas ganharam o i, e a faixa que aparece quando o agente usa o seu computador também: cada um explica o que mostra e como usar.
+
+## 0.1.225 · 01/11/2026
+
+- **A tela da atualização.** Quando o TZC se atualiza, a janela dele vira a tela da atualização: o fundo do TZC, o logo com o brilho, a barra de carregamento com a porcentagem, o passo de agora e as etapas (guardar, instalar, abrir, pronto). Ela some sozinha quando a versão nova abre.
+
 ## 0.1.224 · 01/11/2026
 
 - **O aviso da atualização no monitor certo.** A janelinha que diz o passo da atualização (instalando, abrindo, pronto) agora abre no meio do monitor onde o TZC estava, maior e com o ícone na barra de tarefas. Antes ela podia abrir em outro monitor, e a tela do TZC ficava escura, sem explicação.
