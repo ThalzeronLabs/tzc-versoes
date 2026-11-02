@@ -2,6 +2,38 @@
 
 Cada versão nova chega sozinha ao TZC instalado, com a assinatura conferida antes de instalar.
 
+## 0.1.236 · 01/11/2026
+
+- **Seus pedidos: só os desta conversa.** A lista "Seus pedidos" mostra agora só o que você pediu nesta conversa. Os pedidos das outras conversas da mesma pasta ficam no Caderno do projeto, separados pelo nome da conversa de onde vieram.
+- **Conversa não vira tarefa.** "Oi, tudo bem?", "Encerre." e "Por que a demora?" não entram mais na lista. Uma pergunta de momento, como "Tenho algum emulador ligado?", entra e se marca como feita sozinha quando o agente responde.
+- **Pedido repetido vira o mesmo item.** Se você pede de novo a mesma coisa (ou quase a mesma), mesmo em outra conversa, a lista não ganha um item a mais: o pedido que já existia passa para a conversa em que você pediu de novo. Os pedidos que você pausou ou cancelou não são mexidos.
+
+## 0.1.235 · 01/11/2026
+
+- **Os vídeos de ajuda com o logo do TZC.** Os vídeos curtos do ⓘ (o cérebro, o esforço, o modo, a maratona e os outros) agora mostram o T no hexágono do Thalzeron Code, no lugar da bola verde.
+
+## 0.1.234 · 01/11/2026
+
+- **Os espelhos da memória sempre em dia.** As pastas escolhidas para os espelhos da memória (um disco e o Drive, por exemplo) recebem a memória na hora em que você as escolhe. E a rotina de dormir regrava o espelho que faltar ou estiver diferente, em vez de só avisar.
+
+## 0.1.233 · 01/11/2026
+
+- **O ditado funciona com qualquer microfone.** De fábrica, o ditado usa o primeiro microfone de verdade conectado ao PC. Para escolher a ordem dos seus microfones, vá em Configurações → Geral → Os microfones.
+
+## 0.1.232 · 01/11/2026
+
+- **O Cérebro: a memória da IA no fundo.** Em Configurações → Aparência → O que o fundo mostra, escolha O Cérebro: cada ponto é uma lembrança, e acende quando a IA a usa. Clique num ponto para ver de onde veio, corrigir ou esquecer.
+- **Por que a IA disse isso?.** Embaixo das ações de uma resposta, os chips "usou:" e "guardou:" mostram as lembranças que a IA leu ou guardou. O clique abre a lembrança.
+
+## 0.1.231 · 01/11/2026
+
+- **A atualização mais rápida.** A versão de agora se guarda sozinha, em segundo plano, logo depois de abrir. Na hora de atualizar, o passo Guardar só confere a cópia, e o TZC sai na hora.
+- **Nunca mais a janela de erro na atualização.** O TZC só é aberto de novo depois que o instalador termina de trocar todos os arquivos. Antes, ele podia abrir no meio da troca e deixar uma janela de erro escondida, que travava a atualização seguinte.
+
+## 0.1.230 · 01/11/2026
+
+- **O painel Terminal e a tela da atualização conferidos.** O painel Terminal ganhou uma bateria própria (abrir, fechar e voltar com a tela como estava), e a tela da atualização é conferida também com o núcleo desligado, como acontece de verdade.
+
 ## 0.1.229 · 01/11/2026
 
 - **O pedido de atualizar sempre chega.** Quando a versão nova é instalada de fora, o pedido para o TZC sair com a tela da atualização agora chega sempre, em qualquer ordem que o Windows entregue os argumentos.
